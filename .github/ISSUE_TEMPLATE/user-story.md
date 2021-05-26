@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: User Story
-title: ''
+title: "[STORY- ]"
 labels: User Story
 assignees: MaximUvarov098
 
