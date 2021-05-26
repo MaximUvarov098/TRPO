@@ -2,7 +2,7 @@
 name: User Story
 about: User Story
 title: ''
-labels: ТРПО
+labels: User Story
 assignees: MaximUvarov098
 
 ---
